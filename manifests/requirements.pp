@@ -1,6 +1,6 @@
 exec { '/usr/bin/apt-get update': } ->
 
-package { ['ruby', 'rubygems', 'git-core', ]:
+package { ['ruby', 'rubygems', 'git-core', 'ruby-dev']:
   ensure => installed,
 }
 
