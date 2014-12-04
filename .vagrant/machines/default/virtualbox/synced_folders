@@ -1,1 +1,0 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/gabrielflory/Documents/dev-projets/vagrant-fpm-kitchen","disabled":false},"/tmp/vagrant-puppet-3/manifests":{"owner":"root","guestpath":"/tmp/vagrant-puppet-3/manifests","hostpath":"/Users/gabrielflory/Documents/dev-projets/vagrant-fpm-kitchen/manifests","disabled":false}}}
